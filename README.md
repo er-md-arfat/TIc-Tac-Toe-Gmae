@@ -8,6 +8,8 @@ First turn is PlayerX everytime when game will reset,
 
 both player can click any box in the board at their trun,
 
-which player match 3 box of his mark vertically, horizontally or diagnollay will win the game.
+which player match 3 boxes of his mark vertically or horizontally or diagnollay will Win the game.
+
+if both player can't match 3 boxes of their mark then game will Tie.
 
 Play [Demo](https://er-md-arfat.github.io/Tic-Tac-Toe-Game/)
